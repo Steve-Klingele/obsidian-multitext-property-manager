@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build outputs (keep main.js for distribution)
+*.js.map
+
+# Development
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# Editor directories and files
+*.swp
+*.swo
+*~
