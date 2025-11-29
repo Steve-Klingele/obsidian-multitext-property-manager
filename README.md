@@ -37,6 +37,25 @@ Multitext properties are properties in Obsidian that can have multiple predefine
 3. Click **Browse** and search for "Multitext Property Manager"
 4. Click **Install**, then **Enable**
 
+### Using BRAT (Beta Reviewers Auto-update Tester)
+
+BRAT allows you to install and automatically update plugins that aren't yet in the Community Plugins directory.
+
+1. Install BRAT:
+   - Open **Settings** in Obsidian
+   - Go to **Community Plugins** and disable **Safe Mode** (if needed)
+   - Click **Browse** and search for "BRAT"
+   - Click **Install**, then **Enable**
+
+2. Install this plugin via BRAT:
+   - Open **BRAT settings** (Settings → BRAT)
+   - Click **Add Beta plugin**
+   - Enter the repository URL: `https://github.com/Steve-Klingele/obsidian-multitext-property-manager`
+   - Click **Add Plugin**
+   - Enable the plugin in **Settings → Community Plugins**
+
+BRAT will automatically check for updates and keep your plugin up to date!
+
 ### Manual Installation
 
 1. Download the latest release from [GitHub Releases](https://github.com/Steve-Klingele/obsidian-multitext-property-manager/releases)
