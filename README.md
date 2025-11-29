@@ -39,7 +39,7 @@ Multitext properties are properties in Obsidian that can have multiple predefine
 
 ### Manual Installation
 
-1. Download the latest release from [GitHub Releases](https://github.com/yourusername/obsidian-multitext-property-manager/releases)
+1. Download the latest release from [GitHub Releases](https://github.com/Steve-Klingele/obsidian-multitext-property-manager/releases)
 2. Extract the files to your vault's plugins folder: `<vault>/.obsidian/plugins/property-value-manager/`
 3. Reload Obsidian
 4. Enable the plugin in **Settings → Community Plugins**
@@ -48,7 +48,7 @@ Multitext properties are properties in Obsidian that can have multiple predefine
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/obsidian-multitext-property-manager.git
+git clone https://github.com/Steve-Klingele/obsidian-multitext-property-manager.git
 cd obsidian-multitext-property-manager
 
 # Install dependencies
@@ -148,7 +148,7 @@ Only properties explicitly defined as `"multitext"` in `.obsidian/types.json` ar
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/obsidian-multitext-property-manager.git
+git clone https://github.com/Steve-Klingele/obsidian-multitext-property-manager.git
 cd obsidian-multitext-property-manager
 
 # Install dependencies
@@ -234,9 +234,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have suggestions:
 
-- 🐛 [Report a bug](https://github.com/yourusername/obsidian-multitext-property-manager/issues)
-- 💡 [Request a feature](https://github.com/yourusername/obsidian-multitext-property-manager/issues)
-- 💬 [Ask a question](https://github.com/yourusername/obsidian-multitext-property-manager/discussions)
+- 🐛 [Report a bug](https://github.com/Steve-Klingele/obsidian-multitext-property-manager/issues)
+- 💡 [Request a feature](https://github.com/Steve-Klingele/obsidian-multitext-property-manager/issues)
+- 💬 [Ask a question](https://github.com/Steve-Klingele/obsidian-multitext-property-manager/discussions)
 
 ## Acknowledgments
 
